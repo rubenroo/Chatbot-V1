@@ -18,6 +18,6 @@ The chatbot demonstrates the techniques mentioned above. The following conversta
 
 - Open the conversation with: hello or good day
 - Ask for tips in case of sleep problems with: I have sleep problems
-- Ask to tell a joke with: tell a joke
+- Ask to tell a joke with: Tell a joke
 - Say thank you: Thank you
-- Close the converstation with: goodbye
+- Close the converstation with: Goodbye
