@@ -14,7 +14,7 @@ I have done the minor Real Fake, Real Impact. During the minor, I immersed mysel
 
 
 # What the chatbot can do
-The chatbot demonstrates the techniques mentioned above. The following converstation is possible:
+The chatbot demonstrates the techniques mentioned above. The following questions are possible:
 
 - Say hello to the chatbot
 - Ask for tips in case of sleep problems
