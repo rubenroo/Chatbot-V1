@@ -16,8 +16,8 @@ I have done the minor Real Fake, Real Impact. During the minor, I immersed mysel
 # What the chatbot can do
 The chatbot demonstrates the techniques mentioned above. The following converstation is possible:
 
-- Open the conversation with: hello or good day
-- Ask for tips in case of sleep problems with: I have sleep problems
-- Ask to tell a joke with: Tell a joke
-- Say thank you: Thank you
-- Close the converstation with: Goodbye
+- Say hello to the chatbot
+- Ask for tips in case of sleep problems
+- Ask to tell a joke with
+- Thanks the chatbot 
+- Say goodby to the chatbot
