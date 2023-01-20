@@ -9,10 +9,6 @@ This chatbot was created using the lessons provided by R. van der Willigen. All 
 # How it works
 The Chatbot uses a DNN ((Deep Neural Network) to identify patterns in user input and generate a relevant response. The NLTK Library in Python is used to extract relevant words from sentences, reduce them to their root form (stemming), and convert them to numerical values (One-Hot Encoding) for use in the neural network. The neural network is created using Tensorflow's Tflearn library, and trained on a dataset of user queries and corresponding responses. Once trained, the model is able to predict a response to a user's query.
 
-# Why this project
-I have done the minor Real Fake, Real Impact. During the minor, I immersed myself in AI and Digital Humans. One of the topics was learning the basics of pyton. With the knowledge learned, I created 4 different chatbots. Each chatbot was built with different techniques and with  diffrent purposes.
-
-
 # What the chatbot can do
 The chatbot demonstrates the techniques mentioned above. The following questions are possible:
 
@@ -21,3 +17,7 @@ The chatbot demonstrates the techniques mentioned above. The following questions
 - Ask to tell a joke
 - Thanks the chatbot 
 - Say goodby to the chatbot
+
+
+# Why this project
+I have done the minor Real Fake, Real Impact. During the minor, I immersed myself in AI and Digital Humans. One of the topics was learning the basics of pyton. With the knowledge learned, I created 4 different chatbots. Each chatbot was built with different techniques and with  diffrent purposes.
