@@ -18,6 +18,6 @@ The chatbot demonstrates the techniques mentioned above. The following conversta
 
 - Say hello to the chatbot
 - Ask for tips in case of sleep problems
-- Ask to tell a joke with
+- Ask to tell a joke
 - Thanks the chatbot 
 - Say goodby to the chatbot
