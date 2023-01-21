@@ -7,7 +7,7 @@ This chatbot was created using the lessons provided by R. van der Willigen. All 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rubenroo/Chatbot-V1/HEAD?labpath=Chatbot%20code%20Rob%20-%20Ruben%20Feb%202023%20(V1).ipynb)
 
 # How it works
-The Chatbot uses a DNN ((Deep Neural Network) to identify patterns in user input and generate a relevant response. The NLTK Library in Python is used to extract relevant words from sentences, reduce them to their root form (stemming), and convert them to numerical values (One-Hot Encoding) for use in the neural network. The neural network is created using Tensorflow's Tflearn library, and trained on a dataset of user queries and corresponding responses. Once trained, the model is able to predict a response to a user's query.
+The Chatbot uses a DNN ((Deep Neural Network) to identify patterns in user input and generate a relevant response. The NLTK Library in Python is used to extract relevant words from sentences, reduce them to their root form (stemming), and convert them to numerical values (One-Hot Encoding) for use in the neural network. The neural network is created using Tensorflow's Tflearn library, and trained on a dataset of user queries and corresponding responses. Once trained, the model is able to predict a response to a user's query.(this paragraph is generated with chatGPT)
 
 # What the chatbot can do
 The chatbot demonstrates the techniques mentioned above. The following questions are possible:
