@@ -20,4 +20,4 @@ The chatbot demonstrates the techniques mentioned above. The following questions
 
 
 # Why this project
-I have done the minor Real Fake, Real Impact. During the minor, I immersed myself in AI and Digital Humans. One of the topics was learning the basics of pyton. With the knowledge learned, I created 4 different chatbots. Each chatbot was built with different techniques and with a diffrent purpose.
+I have done the minor Real Fake, Real Impact. During the minor, I immersed myself in AI and Digital Humans. One of the topics was learning the basics of python. With the knowledge learned, I created 4 different chatbots. Each chatbot was built with different techniques and with a diffrent purpose.
